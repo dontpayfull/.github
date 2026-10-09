@@ -8,7 +8,7 @@
 
 | Project | What it does |
 |---|---|
-| [AInotate](https://github.com/dontpayfull/AInotate) | Annotated screenshots for AI agents: numbered steps, Skitch-style arrows, boxes, labels and solid redaction, placed where they cover the least content. CLI, MCP server and agent skill. `pipx install "ainotate[all]"` |
+| [AInotate](https://github.com/dontpayfull/AInotate) | Annotated screenshots for AI agents: numbered steps, Skitch-style arrows, boxes, labels and solid redaction, placed where they cover the least content. CLI, MCP server and agent skill. `pipx install "ainotate[all]"` or `brew install dontpayfull/tap/ainotate` |
 
 ---
 
